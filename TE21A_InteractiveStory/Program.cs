@@ -10,7 +10,7 @@ if (name == "Micke")
 {
   Console.WriteLine("Vad fin du är idag!");
 
-  Console.WriteLine("Vill1 du byta grejer?");
+  Console.WriteLine("Vill du byta grejer?");
   string byta = Console.ReadLine();
   
   if (byta == "ja")
